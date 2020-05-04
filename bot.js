@@ -19,7 +19,7 @@ bot.music.start(bot, {
 
 // Events.
 bot.on("ready", function() {
-    bot.user.setActivity(`Working at DG!`);
+    bot.user.setActivity(`Working at DG™`);
     console.log(`${bot.user.username} is Ready!`);
 });
 
